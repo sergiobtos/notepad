@@ -1,4 +1,3 @@
-# notepad
 <ref *2> IncomingMessage {
   _readableState: ReadableState {
     objectMode: false,
